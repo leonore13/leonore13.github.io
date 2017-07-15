@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+.idea/leonore13.github.io.iml
+.idea/modules.xml
+.idea/workspace.xml
